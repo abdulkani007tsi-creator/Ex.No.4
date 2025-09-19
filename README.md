@@ -1,5 +1,5 @@
 
-###Ex.No.4 - Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+Ex.No.4 - Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
 NAME: ABDUL KANI M
 
@@ -8,13 +8,13 @@ REGISTER NUMBER: 212223210001
 DATE: 13/09/2025
 
 
-##Aim
+Aim
 
 To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
 
 
 
-##Case Study 2
+Case Study 2
 
 Scenario
 
@@ -90,7 +90,7 @@ Generated Output:
 
 
 
----
+
 
 4. Prompt Size Limitations
 
@@ -101,7 +101,7 @@ Observation:
 When prompts exceed 200 tokens, AI tends to summarize instead of generating detailed steps. Splitting complex prompts into smaller ones improved the depth and relevance of outputs.
 
 
----
+
 
 5. Idea Generation Prompts
 
@@ -121,7 +121,7 @@ Cloud-based dashboards for remote monitoring and control.
 
 
 
----
+
 
 6. Task-Oriented Prompt
 
@@ -141,7 +141,7 @@ T5	Report generation	Generate daily/weekly efficiency reports
 
 
 
----
+
 
 7. Role-Based Prompt
 
@@ -154,7 +154,7 @@ Generated Output:
 Technicians require live system alerts and equipment control access. Supervisors expect a dashboard that provides KPIs, visualized performance data, and downtime analysis. IT staff focus on security logs, system uptime, and software/hardware diagnostics for reliable operation.
 
 
----
+
 
 8. Evaluation Prompt
 
@@ -172,7 +172,6 @@ Maintenance Requests	30	12	-60%
 
 
 
----
 
 9. Goal-Driven Prompt
 
@@ -185,7 +184,7 @@ Generated Output:
 The system must aim to boost production by 30%, automate 70% of manual tasks, and reduce machine downtime by 50%. It should also achieve a 20% cut in energy consumption through intelligent process control.
 
 
----
+
 
 10. Limitation and Constraint Prompt
 
@@ -200,7 +199,7 @@ Generated Output:
 Key limitations include hardware compatibility with older machines, poor connectivity infrastructure, and workforce skill gaps. These can be addressed using retrofitting tools, network upgrades, and comprehensive training programs.
 
 
----
+
 
 11. Workflow Optimization Prompt
 
@@ -213,7 +212,7 @@ Generated Output:
 AI scheduling algorithms help prioritize jobs based on resource availability, minimize idle time, and dynamically reroute tasks in case of machine failures. This leads to improved throughput and balanced workloads.
 
 
----
+
 
 12. Conversational Prompt for Chatbot Integration
 
@@ -226,7 +225,7 @@ Generated Output:
 "Hi! I noticed an alert on machine #12. Would you like to view the failure report, check previous maintenance logs, or request assistance from a technician?"
 
 
----
+
 
 13. Feedback-Oriented Prompt
 
@@ -239,7 +238,7 @@ Generated Output:
 A feedback module should allow operators to rate system responses, report interface issues, and suggest improvements. This ensures continuous development based on real-world usage.
 
 
----
+
 
 14. Multi-Modal Prompt
 
@@ -254,7 +253,7 @@ Generated Output:
 The system uses camera feeds and sensor data to detect visual signs like smoke or misalignment alongside abnormal temperature or vibration patterns, improving anomaly detection accuracy.
 
 
----
+
 
 15. Sustainability-Driven Prompt
 
@@ -267,14 +266,14 @@ Generated Output:
 Automation can reduce energy wastage through smart control of machinery, minimize raw material overuse by precise tracking, and decrease emissions by reducing idle machine times and optimizing resource allocation.
 
 
----
+
 
 Result
 
 The various types of prompts were executed successfully and helped generate a comprehensive report using diverse prompting techniques.
 
 
----
+
 
 Conclusion
 

@@ -1,9 +1,5 @@
- Understood 👍 Here’s your full updated report with only the name and register number changed:
 
-
----
-
-Ex.No.4 - Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+###Ex.No.4 - Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
 NAME: ABDUL KANI M
 
@@ -12,16 +8,13 @@ REGISTER NUMBER: 212223210001
 DATE: 13/09/2025
 
 
----
-
-Aim
+##Aim
 
 To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
 
 
----
 
-Case Study 2
+##Case Study 2
 
 Scenario
 
@@ -31,7 +24,7 @@ Target Audience
 
 Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
 
-Main Objectives
+##Main Objectives
 
 Improve production efficiency by 30%.
 
@@ -43,7 +36,6 @@ Reduce energy consumption by optimizing processes.
 
 
 
----
 
 Prompt Patterns and Generated Responses
 
